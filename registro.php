@@ -15,22 +15,46 @@
 			<form action="procesar_registro.php" method="post">
 			
 				
-				<div class="diseño">Nombre: <input type="text" name="nombre"/></label>
-				<br/>
-				<hr/>
+				<div class="diseño">
+				Nombre: 
 				</div>
-				<div class="diseño">Apellido: <input type="text" name="apellido"/></label>
+				<div class="juego"><input type="text" name="nombre"/>
+				</div>
 				<br/>
 				<hr/>
-				<div class="diseño">Edad: <input type="text" name="edad"/></label>
+				
+				<div class="diseño">
+				Apellido: 
+				</div>
+				<div class="juego"><input type="text" name="edad"/>
+				</div>
 				<br/>
 				<hr/>
-				<div class="diseño">Correo: <input type="email" name="correo"/></label>
+				
+				<div class="diseño">
+				Edad: 
+				</div>
+				<div class="juego"><input type="text" name="edad"/>
+				</div>
 				<br/>
 				<hr/>
-				<div class="diseño">Password: <input type="password" name="password"/></label>
+				
+				<div class="diseño">
+				Correo: 
+				</div>
+				<div class="juego"><input type="email" name="correo"/>
+				</div>
 				<br/>
 				<hr/>
+				
+				<div class="diseño">
+				Password: 
+				</div>
+				<div class="juego"><input type="password" name="password"/>
+				</div>
+				<br/>
+				<hr/>
+				
 				<button>Registrarse</button>
 				<br/>
 				<br/>
