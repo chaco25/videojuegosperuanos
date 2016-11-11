@@ -55,11 +55,13 @@
 				<br/>
 				<hr/>
 				
-				<button>Registrarse</button>
+			
+				<input type="submit" value="Registrarse" id="boton">
+			
 				<br/>
 				<br/>
 				<br/>
-				<a href="index.php">Volver al inicio</a>
+				<a href="index.php" id="link">Volver al inicio</a>
 						
 			</form>
 			</section>
