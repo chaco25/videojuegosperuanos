@@ -23,6 +23,7 @@ session_start();
         </div>
         <div id="centro">
             <h1>Videojuegos Peruanos</h1>
+			<hr/>
         </div>
 		<nav id="izq">
 		</nav>
