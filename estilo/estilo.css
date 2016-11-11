@@ -1,0 +1,135 @@
+﻿body {
+	font-family: arial; 
+	margin: 0;
+	background-image: url(https://rosauraochoa.files.wordpress.com/2009/03/twitter_background_003.jpg);
+	background-repeat: no-repeat;
+	
+	
+}
+h1 {
+	font-size: 45px; 
+	padding: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;	
+	text-align: center;	
+	margin: 0;
+	font-family: tahoma;
+	color: white;
+}
+#mid{
+	margin-left: 20%;
+	margin-right: 20%;
+	}
+#mid #imagen{
+	width: 710px;
+	height: 710px;
+	text-align: center;
+	background-image: url(http://k02.kn3.net/38AE2BA90.png);
+	border-radius: 8px;
+	position: relative;
+}
+#izq{
+	
+	float: left;
+	width: 20%;
+} 
+#izquierda{
+    float: left;
+    width: 30%;
+    text-align:right;
+    padding-top: 28px;
+}
+#derecha{
+    float: right;
+    width: 30%;
+    text-align:center;
+    padding-top:32px;
+    color: black;
+    font-family: arial;
+    font-size:24px;
+}
+#centro{
+    margin-left:30%;
+    margin-right:30%;
+    text-align:center;
+    padding:20px 0;
+}
+.uno{
+    padding:20px;
+
+}
+footer {
+	margin-top: 20px;
+	text-align: center; 
+	padding: 10px;
+	color: #fff; 
+	font-weight: bold;
+	clear: both;
+	background-color: #5882FA;
+	min-height:532px;
+}
+
+#barra-lateral{
+    float:right;
+    width: 20%;
+    min-height: 200px;
+	padding-top: 90px;
+	padding-right: 40px;
+}
+
+#barra-lateral nav{
+    border: 1px solid #c5c5c5;
+    border-radius: 8px;
+    background-color: #CEE3F6;
+    margin :10px;
+}
+#barra-lateral nav section{
+    background-color: #CECEF6;
+    margin: 6px;
+}
+#barra-lateral nav section header{
+    background-color: #225ea2;
+    font-weight:bold;
+    color:white;
+    padding:6px;
+}
+#barra-lateral nav section ul{
+        margin:0;
+        padding-left:0 ;
+        list-style-type:none;
+}
+#barra-lateral nav section ul li{
+    padding: 4px;
+    padding-left:16px;
+}
+
+#izqre{
+	float:left;
+	width:20$
+}
+#dere{
+	float:right;
+	width: 20%;
+	}
+#registro{
+	margin-left:20%;
+	margin-right:20%;
+	padding:30px;
+	padding-top: 100px;
+}
+#registro .diseño{
+	font-family: tahoma;
+	font-size:25px;
+}
+#registro #exito{
+	text-align:center;
+	font-size: 35px;
+	font-family: tahoma;	
+	padding-left: 250px;
+	
+}
+#derecha .texto{
+	font-family: tahoma;
+	font-size:20px;
+	color: white;
+}
